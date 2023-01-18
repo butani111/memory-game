@@ -8,3 +8,6 @@ Link: https://butani111.github.io/memory-game/
 ## Technologies Used
 HTML | CSS | Javascript
 #
+
+## Contributors
+@butani111, @Yash-Vasani1
